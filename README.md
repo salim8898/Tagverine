@@ -1,4 +1,4 @@
-# Tagverine: Automate Container Tagging for Any Platform 🚀
+# 🐺Tagverine: Automate Container Tagging for Any Platform 🚀
 
 Tagverine is a powerful and versatile container tagging tool designed to simplify and automate the process of tagging containers running in various platforms. Whether you are using EKS, AKS, GKE, on-premises environments, or even MiniKube, Tagverine is here to streamline your container management workflow.
 
